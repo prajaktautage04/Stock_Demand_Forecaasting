@@ -1,0 +1,1174 @@
+Product Type,Product Sub-Category,Type,Period,Forecast_Qty,Model
+Canned Foods,Assorted Fruits,test_forecast,2013-03-01,-11.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Assorted Fruits,test_forecast,2013-04-01,-88.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Assorted Fruits,test_forecast,2013-05-01,27.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Assorted Fruits,test_forecast,2013-06-01,-26.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Assorted Fruits,test_forecast,2013-07-01,3.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Assorted Fruits,test_forecast,2013-08-01,-26.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Assorted Fruits,test_forecast,2013-09-01,157.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Assorted Fruits,test_forecast,2013-10-01,36.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Assorted Fruits,test_forecast,2013-11-01,86.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Assorted Fruits,test_forecast,2013-12-01,35.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Assorted Fruits,actual,2010-01-01,10.0,actual
+Canned Foods,Assorted Fruits,actual,2010-02-01,36.0,actual
+Canned Foods,Assorted Fruits,actual,2010-03-01,108.0,actual
+Canned Foods,Assorted Fruits,actual,2010-04-01,113.0,actual
+Canned Foods,Assorted Fruits,actual,2010-05-01,73.0,actual
+Canned Foods,Assorted Fruits,actual,2010-06-01,29.0,actual
+Canned Foods,Assorted Fruits,actual,2010-07-01,169.0,actual
+Canned Foods,Assorted Fruits,actual,2010-08-01,66.0,actual
+Canned Foods,Assorted Fruits,actual,2010-09-01,65.0,actual
+Canned Foods,Assorted Fruits,actual,2010-10-01,23.0,actual
+Canned Foods,Assorted Fruits,actual,2010-11-01,135.0,actual
+Canned Foods,Assorted Fruits,actual,2010-12-01,94.0,actual
+Canned Foods,Assorted Fruits,actual,2011-01-01,19.0,actual
+Canned Foods,Assorted Fruits,actual,2011-02-01,84.0,actual
+Canned Foods,Assorted Fruits,actual,2011-03-01,24.0,actual
+Canned Foods,Assorted Fruits,actual,2011-04-01,6.0,actual
+Canned Foods,Assorted Fruits,actual,2011-05-01,36.0,actual
+Canned Foods,Assorted Fruits,actual,2011-06-01,12.0,actual
+Canned Foods,Assorted Fruits,actual,2011-07-01,23.0,actual
+Canned Foods,Assorted Fruits,actual,2011-08-01,29.0,actual
+Canned Foods,Assorted Fruits,actual,2011-09-01,139.0,actual
+Canned Foods,Assorted Fruits,actual,2011-10-01,49.0,actual
+Canned Foods,Assorted Fruits,actual,2011-11-01,18.0,actual
+Canned Foods,Assorted Fruits,actual,2011-12-01,60.0,actual
+Canned Foods,Assorted Fruits,actual,2012-01-01,23.0,actual
+Canned Foods,Assorted Fruits,actual,2012-02-01,20.0,actual
+Canned Foods,Assorted Fruits,actual,2012-03-01,17.0,actual
+Canned Foods,Assorted Fruits,actual,2012-04-01,15.0,actual
+Canned Foods,Assorted Fruits,actual,2012-05-01,44.0,actual
+Canned Foods,Assorted Fruits,actual,2012-06-01,31.0,actual
+Canned Foods,Assorted Fruits,actual,2012-07-01,144.0,actual
+Canned Foods,Assorted Fruits,actual,2012-08-01,25.0,actual
+Canned Foods,Assorted Fruits,actual,2012-09-01,94.0,actual
+Canned Foods,Assorted Fruits,actual,2012-10-01,58.0,actual
+Canned Foods,Assorted Fruits,actual,2012-11-01,315.0,actual
+Canned Foods,Assorted Fruits,actual,2012-12-01,106.0,actual
+Canned Foods,Assorted Fruits,actual,2013-01-01,55.0,actual
+Canned Foods,Assorted Fruits,actual,2013-02-01,33.0,actual
+Canned Foods,Assorted Fruits,actual,2013-03-01,57.0,actual
+Canned Foods,Assorted Fruits,actual,2013-04-01,16.0,actual
+Canned Foods,Assorted Fruits,actual,2013-05-01,58.0,actual
+Canned Foods,Assorted Fruits,actual,2013-06-01,13.0,actual
+Canned Foods,Assorted Fruits,actual,2013-07-01,24.0,actual
+Canned Foods,Assorted Fruits,actual,2013-08-01,37.0,actual
+Canned Foods,Assorted Fruits,actual,2013-09-01,67.0,actual
+Canned Foods,Assorted Fruits,actual,2013-10-01,79.0,actual
+Canned Foods,Assorted Fruits,actual,2013-11-01,62.0,actual
+Canned Foods,Assorted Fruits,actual,2013-12-01,53.0,actual
+Canned Foods,Assorted Fruits,future_forecast,2014-01-01,24.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Assorted Fruits,future_forecast,2014-02-01,20.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Assorted Fruits,future_forecast,2014-03-01,22.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Assorted Fruits,future_forecast,2014-04-01,16.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Assorted Fruits,future_forecast,2014-05-01,47.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Assorted Fruits,future_forecast,2014-06-01,31.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Assorted Fruits,future_forecast,2014-07-01,136.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Assorted Fruits,future_forecast,2014-08-01,27.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Assorted Fruits,future_forecast,2014-09-01,91.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Assorted Fruits,future_forecast,2014-10-01,62.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Assorted Fruits,future_forecast,2014-11-01,297.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Assorted Fruits,future_forecast,2014-12-01,103.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Quail Eggs,test_forecast,2013-03-01,51.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Quail Eggs,test_forecast,2013-04-01,69.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Quail Eggs,test_forecast,2013-05-01,174.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Quail Eggs,test_forecast,2013-06-01,84.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Quail Eggs,test_forecast,2013-07-01,76.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Quail Eggs,test_forecast,2013-08-01,51.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Quail Eggs,test_forecast,2013-09-01,94.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Quail Eggs,test_forecast,2013-10-01,96.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Quail Eggs,test_forecast,2013-11-01,121.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Quail Eggs,test_forecast,2013-12-01,198.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Quail Eggs,actual,2010-01-01,9.0,actual
+Canned Foods,Quail Eggs,actual,2010-02-01,27.0,actual
+Canned Foods,Quail Eggs,actual,2010-03-01,89.0,actual
+Canned Foods,Quail Eggs,actual,2010-04-01,155.0,actual
+Canned Foods,Quail Eggs,actual,2010-05-01,39.0,actual
+Canned Foods,Quail Eggs,actual,2010-06-01,11.0,actual
+Canned Foods,Quail Eggs,actual,2010-07-01,82.0,actual
+Canned Foods,Quail Eggs,actual,2010-08-01,56.0,actual
+Canned Foods,Quail Eggs,actual,2010-09-01,94.0,actual
+Canned Foods,Quail Eggs,actual,2010-10-01,44.0,actual
+Canned Foods,Quail Eggs,actual,2010-11-01,62.0,actual
+Canned Foods,Quail Eggs,actual,2010-12-01,16.0,actual
+Canned Foods,Quail Eggs,actual,2011-01-01,17.0,actual
+Canned Foods,Quail Eggs,actual,2011-02-01,0.0,actual
+Canned Foods,Quail Eggs,actual,2011-03-01,29.0,actual
+Canned Foods,Quail Eggs,actual,2011-04-01,24.0,actual
+Canned Foods,Quail Eggs,actual,2011-05-01,119.0,actual
+Canned Foods,Quail Eggs,actual,2011-06-01,29.0,actual
+Canned Foods,Quail Eggs,actual,2011-07-01,11.0,actual
+Canned Foods,Quail Eggs,actual,2011-08-01,135.0,actual
+Canned Foods,Quail Eggs,actual,2011-09-01,106.0,actual
+Canned Foods,Quail Eggs,actual,2011-10-01,75.0,actual
+Canned Foods,Quail Eggs,actual,2011-11-01,126.0,actual
+Canned Foods,Quail Eggs,actual,2011-12-01,140.0,actual
+Canned Foods,Quail Eggs,actual,2012-01-01,49.0,actual
+Canned Foods,Quail Eggs,actual,2012-02-01,48.0,actual
+Canned Foods,Quail Eggs,actual,2012-03-01,27.0,actual
+Canned Foods,Quail Eggs,actual,2012-04-01,62.0,actual
+Canned Foods,Quail Eggs,actual,2012-05-01,142.0,actual
+Canned Foods,Quail Eggs,actual,2012-06-01,62.0,actual
+Canned Foods,Quail Eggs,actual,2012-07-01,66.0,actual
+Canned Foods,Quail Eggs,actual,2012-08-01,43.0,actual
+Canned Foods,Quail Eggs,actual,2012-09-01,84.0,actual
+Canned Foods,Quail Eggs,actual,2012-10-01,79.0,actual
+Canned Foods,Quail Eggs,actual,2012-11-01,103.0,actual
+Canned Foods,Quail Eggs,actual,2012-12-01,162.0,actual
+Canned Foods,Quail Eggs,actual,2013-01-01,107.0,actual
+Canned Foods,Quail Eggs,actual,2013-02-01,112.0,actual
+Canned Foods,Quail Eggs,actual,2013-03-01,71.0,actual
+Canned Foods,Quail Eggs,actual,2013-04-01,115.0,actual
+Canned Foods,Quail Eggs,actual,2013-05-01,151.0,actual
+Canned Foods,Quail Eggs,actual,2013-06-01,112.0,actual
+Canned Foods,Quail Eggs,actual,2013-07-01,78.0,actual
+Canned Foods,Quail Eggs,actual,2013-08-01,231.0,actual
+Canned Foods,Quail Eggs,actual,2013-09-01,115.0,actual
+Canned Foods,Quail Eggs,actual,2013-10-01,215.0,actual
+Canned Foods,Quail Eggs,actual,2013-11-01,268.0,actual
+Canned Foods,Quail Eggs,actual,2013-12-01,73.0,actual
+Canned Foods,Quail Eggs,future_forecast,2014-01-01,113.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Quail Eggs,future_forecast,2014-02-01,100.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Quail Eggs,future_forecast,2014-03-01,116.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Quail Eggs,future_forecast,2014-04-01,137.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Quail Eggs,future_forecast,2014-05-01,198.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Quail Eggs,future_forecast,2014-06-01,118.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Quail Eggs,future_forecast,2014-07-01,126.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Quail Eggs,future_forecast,2014-08-01,155.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Quail Eggs,future_forecast,2014-09-01,177.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Quail Eggs,future_forecast,2014-10-01,144.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Quail Eggs,future_forecast,2014-11-01,178.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Quail Eggs,future_forecast,2014-12-01,222.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Sliced Pineapple,test_forecast,2013-03-01,1.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Sliced Pineapple,test_forecast,2013-04-01,2.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Sliced Pineapple,test_forecast,2013-05-01,31.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Sliced Pineapple,test_forecast,2013-06-01,5.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Sliced Pineapple,test_forecast,2013-07-01,33.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Sliced Pineapple,test_forecast,2013-08-01,6.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Sliced Pineapple,test_forecast,2013-09-01,5.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Sliced Pineapple,test_forecast,2013-10-01,22.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Sliced Pineapple,test_forecast,2013-11-01,56.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Sliced Pineapple,test_forecast,2013-12-01,-6.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Sliced Pineapple,actual,2010-01-01,43.0,actual
+Canned Foods,Sliced Pineapple,actual,2010-02-01,39.0,actual
+Canned Foods,Sliced Pineapple,actual,2010-03-01,13.0,actual
+Canned Foods,Sliced Pineapple,actual,2010-04-01,2.0,actual
+Canned Foods,Sliced Pineapple,actual,2010-05-01,34.0,actual
+Canned Foods,Sliced Pineapple,actual,2010-06-01,0.0,actual
+Canned Foods,Sliced Pineapple,actual,2010-07-01,25.0,actual
+Canned Foods,Sliced Pineapple,actual,2010-08-01,92.0,actual
+Canned Foods,Sliced Pineapple,actual,2010-09-01,7.0,actual
+Canned Foods,Sliced Pineapple,actual,2010-10-01,21.0,actual
+Canned Foods,Sliced Pineapple,actual,2010-11-01,6.0,actual
+Canned Foods,Sliced Pineapple,actual,2010-12-01,12.0,actual
+Canned Foods,Sliced Pineapple,actual,2011-01-01,17.0,actual
+Canned Foods,Sliced Pineapple,actual,2011-02-01,10.0,actual
+Canned Foods,Sliced Pineapple,actual,2011-03-01,6.0,actual
+Canned Foods,Sliced Pineapple,actual,2011-04-01,1.0,actual
+Canned Foods,Sliced Pineapple,actual,2011-05-01,50.0,actual
+Canned Foods,Sliced Pineapple,actual,2011-06-01,0.0,actual
+Canned Foods,Sliced Pineapple,actual,2011-07-01,66.0,actual
+Canned Foods,Sliced Pineapple,actual,2011-08-01,0.0,actual
+Canned Foods,Sliced Pineapple,actual,2011-09-01,24.0,actual
+Canned Foods,Sliced Pineapple,actual,2011-10-01,61.0,actual
+Canned Foods,Sliced Pineapple,actual,2011-11-01,79.0,actual
+Canned Foods,Sliced Pineapple,actual,2011-12-01,0.0,actual
+Canned Foods,Sliced Pineapple,actual,2012-01-01,11.0,actual
+Canned Foods,Sliced Pineapple,actual,2012-02-01,26.0,actual
+Canned Foods,Sliced Pineapple,actual,2012-03-01,5.0,actual
+Canned Foods,Sliced Pineapple,actual,2012-04-01,11.0,actual
+Canned Foods,Sliced Pineapple,actual,2012-05-01,26.0,actual
+Canned Foods,Sliced Pineapple,actual,2012-06-01,17.0,actual
+Canned Foods,Sliced Pineapple,actual,2012-07-01,15.0,actual
+Canned Foods,Sliced Pineapple,actual,2012-08-01,32.0,actual
+Canned Foods,Sliced Pineapple,actual,2012-09-01,0.0,actual
+Canned Foods,Sliced Pineapple,actual,2012-10-01,1.0,actual
+Canned Foods,Sliced Pineapple,actual,2012-11-01,39.0,actual
+Canned Foods,Sliced Pineapple,actual,2012-12-01,0.0,actual
+Canned Foods,Sliced Pineapple,actual,2013-01-01,17.0,actual
+Canned Foods,Sliced Pineapple,actual,2013-02-01,49.0,actual
+Canned Foods,Sliced Pineapple,actual,2013-03-01,58.0,actual
+Canned Foods,Sliced Pineapple,actual,2013-04-01,17.0,actual
+Canned Foods,Sliced Pineapple,actual,2013-05-01,5.0,actual
+Canned Foods,Sliced Pineapple,actual,2013-06-01,2.0,actual
+Canned Foods,Sliced Pineapple,actual,2013-07-01,93.0,actual
+Canned Foods,Sliced Pineapple,actual,2013-08-01,40.0,actual
+Canned Foods,Sliced Pineapple,actual,2013-09-01,88.0,actual
+Canned Foods,Sliced Pineapple,actual,2013-10-01,33.0,actual
+Canned Foods,Sliced Pineapple,actual,2013-11-01,111.0,actual
+Canned Foods,Sliced Pineapple,actual,2013-12-01,45.0,actual
+Canned Foods,Sliced Pineapple,future_forecast,2014-01-01,49.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Sliced Pineapple,future_forecast,2014-02-01,74.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Sliced Pineapple,future_forecast,2014-03-01,67.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Sliced Pineapple,future_forecast,2014-04-01,48.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Sliced Pineapple,future_forecast,2014-05-01,45.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Sliced Pineapple,future_forecast,2014-06-01,43.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Sliced Pineapple,future_forecast,2014-07-01,86.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Sliced Pineapple,future_forecast,2014-08-01,74.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Sliced Pineapple,future_forecast,2014-09-01,79.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Sliced Pineapple,future_forecast,2014-10-01,46.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Sliced Pineapple,future_forecast,2014-11-01,107.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Sliced Pineapple,future_forecast,2014-12-01,58.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Wild Berry,test_forecast,2013-03-01,11.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Wild Berry,test_forecast,2013-04-01,7.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Wild Berry,test_forecast,2013-05-01,2.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Wild Berry,test_forecast,2013-06-01,3.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Wild Berry,test_forecast,2013-07-01,7.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Wild Berry,test_forecast,2013-08-01,3.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Wild Berry,test_forecast,2013-09-01,51.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Wild Berry,test_forecast,2013-10-01,15.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Wild Berry,actual,2010-07-01,12.0,actual
+Canned Foods,Wild Berry,actual,2010-08-01,0.0,actual
+Canned Foods,Wild Berry,actual,2010-09-01,5.0,actual
+Canned Foods,Wild Berry,actual,2010-10-01,0.0,actual
+Canned Foods,Wild Berry,actual,2010-11-01,0.0,actual
+Canned Foods,Wild Berry,actual,2010-12-01,0.0,actual
+Canned Foods,Wild Berry,actual,2011-01-01,12.0,actual
+Canned Foods,Wild Berry,actual,2011-02-01,0.0,actual
+Canned Foods,Wild Berry,actual,2011-03-01,0.0,actual
+Canned Foods,Wild Berry,actual,2011-04-01,12.0,actual
+Canned Foods,Wild Berry,actual,2011-05-01,0.0,actual
+Canned Foods,Wild Berry,actual,2011-06-01,0.0,actual
+Canned Foods,Wild Berry,actual,2011-07-01,0.0,actual
+Canned Foods,Wild Berry,actual,2011-08-01,0.0,actual
+Canned Foods,Wild Berry,actual,2011-09-01,63.0,actual
+Canned Foods,Wild Berry,actual,2011-10-01,14.0,actual
+Canned Foods,Wild Berry,actual,2011-11-01,9.0,actual
+Canned Foods,Wild Berry,actual,2011-12-01,0.0,actual
+Canned Foods,Wild Berry,actual,2012-01-01,0.0,actual
+Canned Foods,Wild Berry,actual,2012-02-01,1.0,actual
+Canned Foods,Wild Berry,actual,2012-03-01,14.0,actual
+Canned Foods,Wild Berry,actual,2012-04-01,0.0,actual
+Canned Foods,Wild Berry,actual,2012-05-01,0.0,actual
+Canned Foods,Wild Berry,actual,2012-06-01,0.0,actual
+Canned Foods,Wild Berry,actual,2012-07-01,11.0,actual
+Canned Foods,Wild Berry,actual,2012-08-01,0.0,actual
+Canned Foods,Wild Berry,actual,2012-09-01,24.0,actual
+Canned Foods,Wild Berry,actual,2012-10-01,21.0,actual
+Canned Foods,Wild Berry,actual,2012-11-01,14.0,actual
+Canned Foods,Wild Berry,actual,2012-12-01,0.0,actual
+Canned Foods,Wild Berry,actual,2013-01-01,10.0,actual
+Canned Foods,Wild Berry,actual,2013-02-01,0.0,actual
+Canned Foods,Wild Berry,actual,2013-03-01,9.0,actual
+Canned Foods,Wild Berry,actual,2013-04-01,1.0,actual
+Canned Foods,Wild Berry,actual,2013-05-01,18.0,actual
+Canned Foods,Wild Berry,actual,2013-06-01,0.0,actual
+Canned Foods,Wild Berry,actual,2013-07-01,0.0,actual
+Canned Foods,Wild Berry,actual,2013-08-01,0.0,actual
+Canned Foods,Wild Berry,actual,2013-09-01,0.0,actual
+Canned Foods,Wild Berry,actual,2013-10-01,33.0,actual
+Canned Foods,Wild Berry,future_forecast,2014-01-01,17.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Wild Berry,future_forecast,2014-02-01,2.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Wild Berry,future_forecast,2014-03-01,8.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Wild Berry,future_forecast,2014-04-01,5.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Wild Berry,future_forecast,2014-05-01,27.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Wild Berry,future_forecast,2014-06-01,2.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Wild Berry,future_forecast,2014-07-01,-3.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Wild Berry,future_forecast,2014-08-01,2.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Wild Berry,future_forecast,2014-09-01,1.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Wild Berry,future_forecast,2014-10-01,39.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Wild Berry,future_forecast,2014-11-01,20.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Canned Foods,Wild Berry,future_forecast,2014-12-01,5.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Jams,test_forecast,2013-03-01,78.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Jams,test_forecast,2013-04-01,58.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Jams,test_forecast,2013-05-01,67.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Jams,test_forecast,2013-06-01,85.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Jams,test_forecast,2013-07-01,87.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Jams,test_forecast,2013-08-01,54.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Jams,test_forecast,2013-09-01,85.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Jams,test_forecast,2013-10-01,44.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Jams,test_forecast,2013-11-01,85.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Jams,test_forecast,2013-12-01,-4.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Jams,actual,2010-01-01,10.0,actual
+Preserved Food,Jams,actual,2010-02-01,56.0,actual
+Preserved Food,Jams,actual,2010-03-01,49.0,actual
+Preserved Food,Jams,actual,2010-04-01,40.0,actual
+Preserved Food,Jams,actual,2010-05-01,0.0,actual
+Preserved Food,Jams,actual,2010-06-01,26.0,actual
+Preserved Food,Jams,actual,2010-07-01,2.0,actual
+Preserved Food,Jams,actual,2010-08-01,11.0,actual
+Preserved Food,Jams,actual,2010-09-01,9.0,actual
+Preserved Food,Jams,actual,2010-10-01,0.0,actual
+Preserved Food,Jams,actual,2010-11-01,101.0,actual
+Preserved Food,Jams,actual,2010-12-01,75.0,actual
+Preserved Food,Jams,actual,2011-01-01,0.0,actual
+Preserved Food,Jams,actual,2011-02-01,13.0,actual
+Preserved Food,Jams,actual,2011-03-01,20.0,actual
+Preserved Food,Jams,actual,2011-04-01,5.0,actual
+Preserved Food,Jams,actual,2011-05-01,25.0,actual
+Preserved Food,Jams,actual,2011-06-01,36.0,actual
+Preserved Food,Jams,actual,2011-07-01,47.0,actual
+Preserved Food,Jams,actual,2011-08-01,5.0,actual
+Preserved Food,Jams,actual,2011-09-01,46.0,actual
+Preserved Food,Jams,actual,2011-10-01,21.0,actual
+Preserved Food,Jams,actual,2011-11-01,26.0,actual
+Preserved Food,Jams,actual,2011-12-01,0.0,actual
+Preserved Food,Jams,actual,2012-01-01,10.0,actual
+Preserved Food,Jams,actual,2012-02-01,16.0,actual
+Preserved Food,Jams,actual,2012-03-01,13.0,actual
+Preserved Food,Jams,actual,2012-04-01,33.0,actual
+Preserved Food,Jams,actual,2012-05-01,2.0,actual
+Preserved Food,Jams,actual,2012-06-01,22.0,actual
+Preserved Food,Jams,actual,2012-07-01,9.0,actual
+Preserved Food,Jams,actual,2012-08-01,6.0,actual
+Preserved Food,Jams,actual,2012-09-01,19.0,actual
+Preserved Food,Jams,actual,2012-10-01,51.0,actual
+Preserved Food,Jams,actual,2012-11-01,71.0,actual
+Preserved Food,Jams,actual,2012-12-01,192.0,actual
+Preserved Food,Jams,actual,2013-01-01,31.0,actual
+Preserved Food,Jams,actual,2013-02-01,85.0,actual
+Preserved Food,Jams,actual,2013-03-01,28.0,actual
+Preserved Food,Jams,actual,2013-04-01,58.0,actual
+Preserved Food,Jams,actual,2013-05-01,6.0,actual
+Preserved Food,Jams,actual,2013-06-01,19.0,actual
+Preserved Food,Jams,actual,2013-07-01,17.0,actual
+Preserved Food,Jams,actual,2013-08-01,113.0,actual
+Preserved Food,Jams,actual,2013-09-01,47.0,actual
+Preserved Food,Jams,actual,2013-10-01,47.0,actual
+Preserved Food,Jams,actual,2013-11-01,38.0,actual
+Preserved Food,Jams,actual,2013-12-01,60.0,actual
+Preserved Food,Jams,future_forecast,2014-01-01,27.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Jams,future_forecast,2014-02-01,48.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Jams,future_forecast,2014-03-01,37.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Jams,future_forecast,2014-04-01,57.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Jams,future_forecast,2014-05-01,28.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Jams,future_forecast,2014-06-01,47.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Jams,future_forecast,2014-07-01,36.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Jams,future_forecast,2014-08-01,37.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Jams,future_forecast,2014-09-01,47.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Jams,future_forecast,2014-10-01,72.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Jams,future_forecast,2014-11-01,90.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Jams,future_forecast,2014-12-01,192.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Marmalade,test_forecast,2013-03-01,26.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Marmalade,test_forecast,2013-04-01,177.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Marmalade,test_forecast,2013-05-01,140.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Marmalade,test_forecast,2013-06-01,82.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Marmalade,test_forecast,2013-07-01,105.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Marmalade,test_forecast,2013-08-01,84.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Marmalade,test_forecast,2013-09-01,81.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Marmalade,test_forecast,2013-10-01,87.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Marmalade,test_forecast,2013-11-01,279.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Marmalade,test_forecast,2013-12-01,63.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Marmalade,actual,2010-01-01,16.0,actual
+Preserved Food,Marmalade,actual,2010-02-01,43.0,actual
+Preserved Food,Marmalade,actual,2010-03-01,66.0,actual
+Preserved Food,Marmalade,actual,2010-04-01,39.0,actual
+Preserved Food,Marmalade,actual,2010-05-01,2.0,actual
+Preserved Food,Marmalade,actual,2010-06-01,124.0,actual
+Preserved Food,Marmalade,actual,2010-07-01,41.0,actual
+Preserved Food,Marmalade,actual,2010-08-01,15.0,actual
+Preserved Food,Marmalade,actual,2010-09-01,43.0,actual
+Preserved Food,Marmalade,actual,2010-10-01,50.0,actual
+Preserved Food,Marmalade,actual,2010-11-01,12.0,actual
+Preserved Food,Marmalade,actual,2010-12-01,10.0,actual
+Preserved Food,Marmalade,actual,2011-01-01,24.0,actual
+Preserved Food,Marmalade,actual,2011-02-01,24.0,actual
+Preserved Food,Marmalade,actual,2011-03-01,12.0,actual
+Preserved Food,Marmalade,actual,2011-04-01,54.0,actual
+Preserved Food,Marmalade,actual,2011-05-01,60.0,actual
+Preserved Food,Marmalade,actual,2011-06-01,35.0,actual
+Preserved Food,Marmalade,actual,2011-07-01,79.0,actual
+Preserved Food,Marmalade,actual,2011-08-01,134.0,actual
+Preserved Food,Marmalade,actual,2011-09-01,93.0,actual
+Preserved Food,Marmalade,actual,2011-10-01,14.0,actual
+Preserved Food,Marmalade,actual,2011-11-01,69.0,actual
+Preserved Food,Marmalade,actual,2011-12-01,27.0,actual
+Preserved Food,Marmalade,actual,2012-01-01,71.0,actual
+Preserved Food,Marmalade,actual,2012-02-01,25.0,actual
+Preserved Food,Marmalade,actual,2012-03-01,5.0,actual
+Preserved Food,Marmalade,actual,2012-04-01,157.0,actual
+Preserved Food,Marmalade,actual,2012-05-01,119.0,actual
+Preserved Food,Marmalade,actual,2012-06-01,61.0,actual
+Preserved Food,Marmalade,actual,2012-07-01,83.0,actual
+Preserved Food,Marmalade,actual,2012-08-01,61.0,actual
+Preserved Food,Marmalade,actual,2012-09-01,59.0,actual
+Preserved Food,Marmalade,actual,2012-10-01,66.0,actual
+Preserved Food,Marmalade,actual,2012-11-01,261.0,actual
+Preserved Food,Marmalade,actual,2012-12-01,42.0,actual
+Preserved Food,Marmalade,actual,2013-01-01,47.0,actual
+Preserved Food,Marmalade,actual,2013-02-01,40.0,actual
+Preserved Food,Marmalade,actual,2013-03-01,68.0,actual
+Preserved Food,Marmalade,actual,2013-04-01,67.0,actual
+Preserved Food,Marmalade,actual,2013-05-01,60.0,actual
+Preserved Food,Marmalade,actual,2013-06-01,87.0,actual
+Preserved Food,Marmalade,actual,2013-07-01,115.0,actual
+Preserved Food,Marmalade,actual,2013-08-01,223.0,actual
+Preserved Food,Marmalade,actual,2013-09-01,15.0,actual
+Preserved Food,Marmalade,actual,2013-10-01,81.0,actual
+Preserved Food,Marmalade,actual,2013-11-01,127.0,actual
+Preserved Food,Marmalade,actual,2013-12-01,102.0,actual
+Preserved Food,Marmalade,future_forecast,2014-01-01,91.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Marmalade,future_forecast,2014-02-01,76.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Marmalade,future_forecast,2014-03-01,65.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Marmalade,future_forecast,2014-04-01,148.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Marmalade,future_forecast,2014-05-01,128.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Marmalade,future_forecast,2014-06-01,109.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Marmalade,future_forecast,2014-07-01,125.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Marmalade,future_forecast,2014-08-01,132.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Marmalade,future_forecast,2014-09-01,125.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Marmalade,future_forecast,2014-10-01,92.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Marmalade,future_forecast,2014-11-01,195.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Marmalade,future_forecast,2014-12-01,81.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Pickle,test_forecast,2013-03-01,37.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Pickle,test_forecast,2013-04-01,-6.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Pickle,test_forecast,2013-05-01,43.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Pickle,test_forecast,2013-06-01,18.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Pickle,test_forecast,2013-07-01,-32.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Pickle,test_forecast,2013-08-01,-2.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Pickle,test_forecast,2013-09-01,121.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Pickle,test_forecast,2013-10-01,51.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Pickle,test_forecast,2013-11-01,-71.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Pickle,test_forecast,2013-12-01,81.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Pickle,actual,2010-03-01,67.0,actual
+Preserved Food,Pickle,actual,2010-04-01,0.0,actual
+Preserved Food,Pickle,actual,2010-05-01,0.0,actual
+Preserved Food,Pickle,actual,2010-06-01,0.0,actual
+Preserved Food,Pickle,actual,2010-07-01,0.0,actual
+Preserved Food,Pickle,actual,2010-08-01,8.0,actual
+Preserved Food,Pickle,actual,2010-09-01,5.0,actual
+Preserved Food,Pickle,actual,2010-10-01,20.0,actual
+Preserved Food,Pickle,actual,2010-11-01,39.0,actual
+Preserved Food,Pickle,actual,2010-12-01,0.0,actual
+Preserved Food,Pickle,actual,2011-01-01,2.0,actual
+Preserved Food,Pickle,actual,2011-02-01,0.0,actual
+Preserved Food,Pickle,actual,2011-03-01,0.0,actual
+Preserved Food,Pickle,actual,2011-04-01,12.0,actual
+Preserved Food,Pickle,actual,2011-05-01,13.0,actual
+Preserved Food,Pickle,actual,2011-06-01,0.0,actual
+Preserved Food,Pickle,actual,2011-07-01,0.0,actual
+Preserved Food,Pickle,actual,2011-08-01,6.0,actual
+Preserved Food,Pickle,actual,2011-09-01,53.0,actual
+Preserved Food,Pickle,actual,2011-10-01,14.0,actual
+Preserved Food,Pickle,actual,2011-11-01,30.0,actual
+Preserved Food,Pickle,actual,2011-12-01,33.0,actual
+Preserved Food,Pickle,actual,2012-01-01,14.0,actual
+Preserved Food,Pickle,actual,2012-02-01,9.0,actual
+Preserved Food,Pickle,actual,2012-03-01,0.0,actual
+Preserved Food,Pickle,actual,2012-04-01,40.0,actual
+Preserved Food,Pickle,actual,2012-05-01,0.0,actual
+Preserved Food,Pickle,actual,2012-06-01,0.0,actual
+Preserved Food,Pickle,actual,2012-07-01,42.0,actual
+Preserved Food,Pickle,actual,2012-08-01,28.0,actual
+Preserved Food,Pickle,actual,2012-09-01,0.0,actual
+Preserved Food,Pickle,actual,2012-10-01,0.0,actual
+Preserved Food,Pickle,actual,2012-11-01,132.0,actual
+Preserved Food,Pickle,actual,2012-12-01,0.0,actual
+Preserved Food,Pickle,actual,2013-01-01,0.0,actual
+Preserved Food,Pickle,actual,2013-02-01,4.0,actual
+Preserved Food,Pickle,actual,2013-03-01,38.0,actual
+Preserved Food,Pickle,actual,2013-04-01,12.0,actual
+Preserved Food,Pickle,actual,2013-05-01,65.0,actual
+Preserved Food,Pickle,actual,2013-06-01,7.0,actual
+Preserved Food,Pickle,actual,2013-07-01,0.0,actual
+Preserved Food,Pickle,actual,2013-08-01,59.0,actual
+Preserved Food,Pickle,actual,2013-09-01,0.0,actual
+Preserved Food,Pickle,actual,2013-10-01,40.0,actual
+Preserved Food,Pickle,actual,2013-11-01,0.0,actual
+Preserved Food,Pickle,actual,2013-12-01,8.0,actual
+Preserved Food,Pickle,future_forecast,2014-01-01,38.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Pickle,future_forecast,2014-02-01,12.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Pickle,future_forecast,2014-03-01,12.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Pickle,future_forecast,2014-04-01,46.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Pickle,future_forecast,2014-05-01,-1.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Pickle,future_forecast,2014-06-01,11.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Pickle,future_forecast,2014-07-01,47.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Pickle,future_forecast,2014-08-01,21.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Pickle,future_forecast,2014-09-01,34.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Pickle,future_forecast,2014-10-01,9.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Pickle,future_forecast,2014-11-01,134.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Pickle,future_forecast,2014-12-01,23.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Sundried Tomatoes,test_forecast,2013-03-01,-2.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Sundried Tomatoes,test_forecast,2013-04-01,48.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Sundried Tomatoes,test_forecast,2013-05-01,19.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Sundried Tomatoes,test_forecast,2013-06-01,38.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Sundried Tomatoes,test_forecast,2013-07-01,-3.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Sundried Tomatoes,test_forecast,2013-08-01,9.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Sundried Tomatoes,test_forecast,2013-09-01,5.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Sundried Tomatoes,test_forecast,2013-10-01,60.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Sundried Tomatoes,test_forecast,2013-11-01,96.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Sundried Tomatoes,test_forecast,2013-12-01,312.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Sundried Tomatoes,actual,2010-01-01,18.0,actual
+Preserved Food,Sundried Tomatoes,actual,2010-02-01,9.0,actual
+Preserved Food,Sundried Tomatoes,actual,2010-03-01,9.0,actual
+Preserved Food,Sundried Tomatoes,actual,2010-04-01,21.0,actual
+Preserved Food,Sundried Tomatoes,actual,2010-05-01,65.0,actual
+Preserved Food,Sundried Tomatoes,actual,2010-06-01,0.0,actual
+Preserved Food,Sundried Tomatoes,actual,2010-07-01,23.0,actual
+Preserved Food,Sundried Tomatoes,actual,2010-08-01,27.0,actual
+Preserved Food,Sundried Tomatoes,actual,2010-09-01,0.0,actual
+Preserved Food,Sundried Tomatoes,actual,2010-10-01,18.0,actual
+Preserved Food,Sundried Tomatoes,actual,2010-11-01,25.0,actual
+Preserved Food,Sundried Tomatoes,actual,2010-12-01,12.0,actual
+Preserved Food,Sundried Tomatoes,actual,2011-01-01,1.0,actual
+Preserved Food,Sundried Tomatoes,actual,2011-02-01,55.0,actual
+Preserved Food,Sundried Tomatoes,actual,2011-03-01,19.0,actual
+Preserved Food,Sundried Tomatoes,actual,2011-04-01,17.0,actual
+Preserved Food,Sundried Tomatoes,actual,2011-05-01,56.0,actual
+Preserved Food,Sundried Tomatoes,actual,2011-06-01,0.0,actual
+Preserved Food,Sundried Tomatoes,actual,2011-07-01,35.0,actual
+Preserved Food,Sundried Tomatoes,actual,2011-08-01,24.0,actual
+Preserved Food,Sundried Tomatoes,actual,2011-09-01,0.0,actual
+Preserved Food,Sundried Tomatoes,actual,2011-10-01,19.0,actual
+Preserved Food,Sundried Tomatoes,actual,2011-11-01,30.0,actual
+Preserved Food,Sundried Tomatoes,actual,2011-12-01,123.0,actual
+Preserved Food,Sundried Tomatoes,actual,2012-01-01,50.0,actual
+Preserved Food,Sundried Tomatoes,actual,2012-02-01,7.0,actual
+Preserved Food,Sundried Tomatoes,actual,2012-03-01,0.0,actual
+Preserved Food,Sundried Tomatoes,actual,2012-04-01,35.0,actual
+Preserved Food,Sundried Tomatoes,actual,2012-05-01,30.0,actual
+Preserved Food,Sundried Tomatoes,actual,2012-06-01,22.0,actual
+Preserved Food,Sundried Tomatoes,actual,2012-07-01,4.0,actual
+Preserved Food,Sundried Tomatoes,actual,2012-08-01,11.0,actual
+Preserved Food,Sundried Tomatoes,actual,2012-09-01,0.0,actual
+Preserved Food,Sundried Tomatoes,actual,2012-10-01,43.0,actual
+Preserved Food,Sundried Tomatoes,actual,2012-11-01,70.0,actual
+Preserved Food,Sundried Tomatoes,actual,2012-12-01,226.0,actual
+Preserved Food,Sundried Tomatoes,actual,2013-01-01,78.0,actual
+Preserved Food,Sundried Tomatoes,actual,2013-02-01,2.0,actual
+Preserved Food,Sundried Tomatoes,actual,2013-03-01,16.0,actual
+Preserved Food,Sundried Tomatoes,actual,2013-04-01,11.0,actual
+Preserved Food,Sundried Tomatoes,actual,2013-05-01,27.0,actual
+Preserved Food,Sundried Tomatoes,actual,2013-06-01,79.0,actual
+Preserved Food,Sundried Tomatoes,actual,2013-07-01,43.0,actual
+Preserved Food,Sundried Tomatoes,actual,2013-08-01,24.0,actual
+Preserved Food,Sundried Tomatoes,actual,2013-09-01,22.0,actual
+Preserved Food,Sundried Tomatoes,actual,2013-10-01,87.0,actual
+Preserved Food,Sundried Tomatoes,actual,2013-11-01,53.0,actual
+Preserved Food,Sundried Tomatoes,actual,2013-12-01,111.0,actual
+Preserved Food,Sundried Tomatoes,future_forecast,2014-01-01,26.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Sundried Tomatoes,future_forecast,2014-02-01,-19.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Sundried Tomatoes,future_forecast,2014-03-01,13.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Sundried Tomatoes,future_forecast,2014-04-01,7.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Sundried Tomatoes,future_forecast,2014-05-01,31.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Sundried Tomatoes,future_forecast,2014-06-01,94.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Sundried Tomatoes,future_forecast,2014-07-01,57.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Sundried Tomatoes,future_forecast,2014-08-01,33.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Sundried Tomatoes,future_forecast,2014-09-01,32.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Sundried Tomatoes,future_forecast,2014-10-01,100.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Sundried Tomatoes,future_forecast,2014-11-01,55.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Preserved Food,Sundried Tomatoes,future_forecast,2014-12-01,94.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Bacon,test_forecast,2013-03-01,131.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Bacon,test_forecast,2013-04-01,45.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Bacon,test_forecast,2013-05-01,77.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Bacon,test_forecast,2013-06-01,41.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Bacon,test_forecast,2013-07-01,55.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Bacon,test_forecast,2013-08-01,69.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Bacon,test_forecast,2013-09-01,88.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Bacon,test_forecast,2013-10-01,109.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Bacon,test_forecast,2013-11-01,70.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Bacon,test_forecast,2013-12-01,79.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Bacon,actual,2010-01-01,24.0,actual
+Processed Meat,Bacon,actual,2010-02-01,19.0,actual
+Processed Meat,Bacon,actual,2010-03-01,71.0,actual
+Processed Meat,Bacon,actual,2010-04-01,29.0,actual
+Processed Meat,Bacon,actual,2010-05-01,92.0,actual
+Processed Meat,Bacon,actual,2010-06-01,34.0,actual
+Processed Meat,Bacon,actual,2010-07-01,68.0,actual
+Processed Meat,Bacon,actual,2010-08-01,20.0,actual
+Processed Meat,Bacon,actual,2010-09-01,112.0,actual
+Processed Meat,Bacon,actual,2010-10-01,94.0,actual
+Processed Meat,Bacon,actual,2010-11-01,71.0,actual
+Processed Meat,Bacon,actual,2010-12-01,19.0,actual
+Processed Meat,Bacon,actual,2011-01-01,70.0,actual
+Processed Meat,Bacon,actual,2011-02-01,32.0,actual
+Processed Meat,Bacon,actual,2011-03-01,28.0,actual
+Processed Meat,Bacon,actual,2011-04-01,82.0,actual
+Processed Meat,Bacon,actual,2011-05-01,36.0,actual
+Processed Meat,Bacon,actual,2011-06-01,38.0,actual
+Processed Meat,Bacon,actual,2011-07-01,43.0,actual
+Processed Meat,Bacon,actual,2011-08-01,70.0,actual
+Processed Meat,Bacon,actual,2011-09-01,131.0,actual
+Processed Meat,Bacon,actual,2011-10-01,122.0,actual
+Processed Meat,Bacon,actual,2011-11-01,25.0,actual
+Processed Meat,Bacon,actual,2011-12-01,49.0,actual
+Processed Meat,Bacon,actual,2012-01-01,72.0,actual
+Processed Meat,Bacon,actual,2012-02-01,79.0,actual
+Processed Meat,Bacon,actual,2012-03-01,198.0,actual
+Processed Meat,Bacon,actual,2012-04-01,12.0,actual
+Processed Meat,Bacon,actual,2012-05-01,77.0,actual
+Processed Meat,Bacon,actual,2012-06-01,28.0,actual
+Processed Meat,Bacon,actual,2012-07-01,37.0,actual
+Processed Meat,Bacon,actual,2012-08-01,73.0,actual
+Processed Meat,Bacon,actual,2012-09-01,32.0,actual
+Processed Meat,Bacon,actual,2012-10-01,88.0,actual
+Processed Meat,Bacon,actual,2012-11-01,78.0,actual
+Processed Meat,Bacon,actual,2012-12-01,107.0,actual
+Processed Meat,Bacon,actual,2013-01-01,27.0,actual
+Processed Meat,Bacon,actual,2013-02-01,45.0,actual
+Processed Meat,Bacon,actual,2013-03-01,108.0,actual
+Processed Meat,Bacon,actual,2013-04-01,97.0,actual
+Processed Meat,Bacon,actual,2013-05-01,66.0,actual
+Processed Meat,Bacon,actual,2013-06-01,86.0,actual
+Processed Meat,Bacon,actual,2013-07-01,83.0,actual
+Processed Meat,Bacon,actual,2013-08-01,58.0,actual
+Processed Meat,Bacon,actual,2013-09-01,115.0,actual
+Processed Meat,Bacon,actual,2013-10-01,64.0,actual
+Processed Meat,Bacon,actual,2013-11-01,79.0,actual
+Processed Meat,Bacon,actual,2013-12-01,286.0,actual
+Processed Meat,Bacon,future_forecast,2014-01-01,21.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Bacon,future_forecast,2014-02-01,76.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Bacon,future_forecast,2014-03-01,136.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Bacon,future_forecast,2014-04-01,91.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Bacon,future_forecast,2014-05-01,84.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Bacon,future_forecast,2014-06-01,84.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Bacon,future_forecast,2014-07-01,86.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Bacon,future_forecast,2014-08-01,78.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Bacon,future_forecast,2014-09-01,115.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Bacon,future_forecast,2014-10-01,93.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Bacon,future_forecast,2014-11-01,91.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Bacon,future_forecast,2014-12-01,232.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Caviar,test_forecast,2013-03-01,29.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Caviar,test_forecast,2013-04-01,11.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Caviar,test_forecast,2013-05-01,100.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Caviar,test_forecast,2013-06-01,86.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Caviar,test_forecast,2013-07-01,33.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Caviar,test_forecast,2013-08-01,44.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Caviar,test_forecast,2013-09-01,108.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Caviar,test_forecast,2013-10-01,86.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Caviar,test_forecast,2013-11-01,-94.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Caviar,test_forecast,2013-12-01,43.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Caviar,actual,2010-01-01,1.0,actual
+Processed Meat,Caviar,actual,2010-02-01,0.0,actual
+Processed Meat,Caviar,actual,2010-03-01,9.0,actual
+Processed Meat,Caviar,actual,2010-04-01,11.0,actual
+Processed Meat,Caviar,actual,2010-05-01,11.0,actual
+Processed Meat,Caviar,actual,2010-06-01,14.0,actual
+Processed Meat,Caviar,actual,2010-07-01,0.0,actual
+Processed Meat,Caviar,actual,2010-08-01,19.0,actual
+Processed Meat,Caviar,actual,2010-09-01,22.0,actual
+Processed Meat,Caviar,actual,2010-10-01,22.0,actual
+Processed Meat,Caviar,actual,2010-11-01,0.0,actual
+Processed Meat,Caviar,actual,2010-12-01,33.0,actual
+Processed Meat,Caviar,actual,2011-01-01,6.0,actual
+Processed Meat,Caviar,actual,2011-02-01,0.0,actual
+Processed Meat,Caviar,actual,2011-03-01,0.0,actual
+Processed Meat,Caviar,actual,2011-04-01,0.0,actual
+Processed Meat,Caviar,actual,2011-05-01,78.0,actual
+Processed Meat,Caviar,actual,2011-06-01,58.0,actual
+Processed Meat,Caviar,actual,2011-07-01,12.0,actual
+Processed Meat,Caviar,actual,2011-08-01,12.0,actual
+Processed Meat,Caviar,actual,2011-09-01,84.0,actual
+Processed Meat,Caviar,actual,2011-10-01,49.0,actual
+Processed Meat,Caviar,actual,2011-11-01,11.0,actual
+Processed Meat,Caviar,actual,2011-12-01,3.0,actual
+Processed Meat,Caviar,actual,2012-01-01,7.0,actual
+Processed Meat,Caviar,actual,2012-02-01,0.0,actual
+Processed Meat,Caviar,actual,2012-03-01,3.0,actual
+Processed Meat,Caviar,actual,2012-04-01,20.0,actual
+Processed Meat,Caviar,actual,2012-05-01,17.0,actual
+Processed Meat,Caviar,actual,2012-06-01,7.0,actual
+Processed Meat,Caviar,actual,2012-07-01,0.0,actual
+Processed Meat,Caviar,actual,2012-08-01,0.0,actual
+Processed Meat,Caviar,actual,2012-09-01,24.0,actual
+Processed Meat,Caviar,actual,2012-10-01,0.0,actual
+Processed Meat,Caviar,actual,2012-11-01,190.0,actual
+Processed Meat,Caviar,actual,2012-12-01,0.0,actual
+Processed Meat,Caviar,actual,2013-01-01,35.0,actual
+Processed Meat,Caviar,actual,2013-02-01,6.0,actual
+Processed Meat,Caviar,actual,2013-03-01,31.0,actual
+Processed Meat,Caviar,actual,2013-04-01,13.0,actual
+Processed Meat,Caviar,actual,2013-05-01,12.0,actual
+Processed Meat,Caviar,actual,2013-06-01,15.0,actual
+Processed Meat,Caviar,actual,2013-07-01,4.0,actual
+Processed Meat,Caviar,actual,2013-08-01,18.0,actual
+Processed Meat,Caviar,actual,2013-09-01,68.0,actual
+Processed Meat,Caviar,actual,2013-10-01,77.0,actual
+Processed Meat,Caviar,actual,2013-11-01,0.0,actual
+Processed Meat,Caviar,actual,2013-12-01,21.0,actual
+Processed Meat,Caviar,future_forecast,2014-01-01,3.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Caviar,future_forecast,2014-02-01,3.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Caviar,future_forecast,2014-03-01,1.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Caviar,future_forecast,2014-04-01,14.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Caviar,future_forecast,2014-05-01,53.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Caviar,future_forecast,2014-06-01,38.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Caviar,future_forecast,2014-07-01,10.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Caviar,future_forecast,2014-08-01,10.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Caviar,future_forecast,2014-09-01,49.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Caviar,future_forecast,2014-10-01,17.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Caviar,future_forecast,2014-11-01,109.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Caviar,future_forecast,2014-12-01,8.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Foie Gras,test_forecast,2013-03-01,-1.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Foie Gras,test_forecast,2013-04-01,17.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Foie Gras,test_forecast,2013-05-01,49.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Foie Gras,test_forecast,2013-06-01,9.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Foie Gras,test_forecast,2013-07-01,46.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Foie Gras,test_forecast,2013-08-01,46.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Foie Gras,test_forecast,2013-09-01,36.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Foie Gras,test_forecast,2013-10-01,74.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Foie Gras,test_forecast,2013-11-01,134.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Foie Gras,test_forecast,2013-12-01,37.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Foie Gras,actual,2010-01-01,73.0,actual
+Processed Meat,Foie Gras,actual,2010-02-01,1.0,actual
+Processed Meat,Foie Gras,actual,2010-03-01,24.0,actual
+Processed Meat,Foie Gras,actual,2010-04-01,68.0,actual
+Processed Meat,Foie Gras,actual,2010-05-01,29.0,actual
+Processed Meat,Foie Gras,actual,2010-06-01,107.0,actual
+Processed Meat,Foie Gras,actual,2010-07-01,11.0,actual
+Processed Meat,Foie Gras,actual,2010-08-01,30.0,actual
+Processed Meat,Foie Gras,actual,2010-09-01,65.0,actual
+Processed Meat,Foie Gras,actual,2010-10-01,95.0,actual
+Processed Meat,Foie Gras,actual,2010-11-01,278.0,actual
+Processed Meat,Foie Gras,actual,2010-12-01,133.0,actual
+Processed Meat,Foie Gras,actual,2011-01-01,6.0,actual
+Processed Meat,Foie Gras,actual,2011-02-01,76.0,actual
+Processed Meat,Foie Gras,actual,2011-03-01,7.0,actual
+Processed Meat,Foie Gras,actual,2011-04-01,28.0,actual
+Processed Meat,Foie Gras,actual,2011-05-01,48.0,actual
+Processed Meat,Foie Gras,actual,2011-06-01,15.0,actual
+Processed Meat,Foie Gras,actual,2011-07-01,98.0,actual
+Processed Meat,Foie Gras,actual,2011-08-01,89.0,actual
+Processed Meat,Foie Gras,actual,2011-09-01,95.0,actual
+Processed Meat,Foie Gras,actual,2011-10-01,109.0,actual
+Processed Meat,Foie Gras,actual,2011-11-01,129.0,actual
+Processed Meat,Foie Gras,actual,2011-12-01,58.0,actual
+Processed Meat,Foie Gras,actual,2012-01-01,102.0,actual
+Processed Meat,Foie Gras,actual,2012-02-01,47.0,actual
+Processed Meat,Foie Gras,actual,2012-03-01,35.0,actual
+Processed Meat,Foie Gras,actual,2012-04-01,55.0,actual
+Processed Meat,Foie Gras,actual,2012-05-01,98.0,actual
+Processed Meat,Foie Gras,actual,2012-06-01,47.0,actual
+Processed Meat,Foie Gras,actual,2012-07-01,55.0,actual
+Processed Meat,Foie Gras,actual,2012-08-01,63.0,actual
+Processed Meat,Foie Gras,actual,2012-09-01,37.0,actual
+Processed Meat,Foie Gras,actual,2012-10-01,94.0,actual
+Processed Meat,Foie Gras,actual,2012-11-01,177.0,actual
+Processed Meat,Foie Gras,actual,2012-12-01,63.0,actual
+Processed Meat,Foie Gras,actual,2013-01-01,46.0,actual
+Processed Meat,Foie Gras,actual,2013-02-01,28.0,actual
+Processed Meat,Foie Gras,actual,2013-03-01,55.0,actual
+Processed Meat,Foie Gras,actual,2013-04-01,25.0,actual
+Processed Meat,Foie Gras,actual,2013-05-01,44.0,actual
+Processed Meat,Foie Gras,actual,2013-06-01,198.0,actual
+Processed Meat,Foie Gras,actual,2013-07-01,93.0,actual
+Processed Meat,Foie Gras,actual,2013-08-01,243.0,actual
+Processed Meat,Foie Gras,actual,2013-09-01,164.0,actual
+Processed Meat,Foie Gras,actual,2013-10-01,60.0,actual
+Processed Meat,Foie Gras,actual,2013-11-01,76.0,actual
+Processed Meat,Foie Gras,actual,2013-12-01,107.0,actual
+Processed Meat,Foie Gras,future_forecast,2014-01-01,93.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Foie Gras,future_forecast,2014-02-01,64.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Foie Gras,future_forecast,2014-03-01,58.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Foie Gras,future_forecast,2014-04-01,62.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Foie Gras,future_forecast,2014-05-01,91.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Foie Gras,future_forecast,2014-06-01,116.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Foie Gras,future_forecast,2014-07-01,93.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Foie Gras,future_forecast,2014-08-01,148.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Foie Gras,future_forecast,2014-09-01,109.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Foie Gras,future_forecast,2014-10-01,104.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Foie Gras,future_forecast,2014-11-01,158.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Foie Gras,future_forecast,2014-12-01,99.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Fresh Water Eel,test_forecast,2013-03-01,48.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Fresh Water Eel,test_forecast,2013-04-01,37.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Fresh Water Eel,test_forecast,2013-05-01,58.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Fresh Water Eel,test_forecast,2013-06-01,10.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Fresh Water Eel,test_forecast,2013-07-01,29.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Fresh Water Eel,test_forecast,2013-08-01,46.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Fresh Water Eel,test_forecast,2013-09-01,-11.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Fresh Water Eel,test_forecast,2013-10-01,19.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Fresh Water Eel,test_forecast,2013-11-01,358.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Fresh Water Eel,test_forecast,2013-12-01,-58.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Fresh Water Eel,actual,2010-01-01,49.0,actual
+Processed Meat,Fresh Water Eel,actual,2010-02-01,6.0,actual
+Processed Meat,Fresh Water Eel,actual,2010-03-01,24.0,actual
+Processed Meat,Fresh Water Eel,actual,2010-04-01,72.0,actual
+Processed Meat,Fresh Water Eel,actual,2010-05-01,20.0,actual
+Processed Meat,Fresh Water Eel,actual,2010-06-01,65.0,actual
+Processed Meat,Fresh Water Eel,actual,2010-07-01,72.0,actual
+Processed Meat,Fresh Water Eel,actual,2010-08-01,44.0,actual
+Processed Meat,Fresh Water Eel,actual,2010-09-01,15.0,actual
+Processed Meat,Fresh Water Eel,actual,2010-10-01,17.0,actual
+Processed Meat,Fresh Water Eel,actual,2010-11-01,220.0,actual
+Processed Meat,Fresh Water Eel,actual,2010-12-01,0.0,actual
+Processed Meat,Fresh Water Eel,actual,2011-01-01,11.0,actual
+Processed Meat,Fresh Water Eel,actual,2011-02-01,59.0,actual
+Processed Meat,Fresh Water Eel,actual,2011-03-01,47.0,actual
+Processed Meat,Fresh Water Eel,actual,2011-04-01,35.0,actual
+Processed Meat,Fresh Water Eel,actual,2011-05-01,72.0,actual
+Processed Meat,Fresh Water Eel,actual,2011-06-01,7.0,actual
+Processed Meat,Fresh Water Eel,actual,2011-07-01,11.0,actual
+Processed Meat,Fresh Water Eel,actual,2011-08-01,27.0,actual
+Processed Meat,Fresh Water Eel,actual,2011-09-01,19.0,actual
+Processed Meat,Fresh Water Eel,actual,2011-10-01,20.0,actual
+Processed Meat,Fresh Water Eel,actual,2011-11-01,233.0,actual
+Processed Meat,Fresh Water Eel,actual,2011-12-01,0.0,actual
+Processed Meat,Fresh Water Eel,actual,2012-01-01,0.0,actual
+Processed Meat,Fresh Water Eel,actual,2012-02-01,35.0,actual
+Processed Meat,Fresh Water Eel,actual,2012-03-01,15.0,actual
+Processed Meat,Fresh Water Eel,actual,2012-04-01,54.0,actual
+Processed Meat,Fresh Water Eel,actual,2012-05-01,35.0,actual
+Processed Meat,Fresh Water Eel,actual,2012-06-01,44.0,actual
+Processed Meat,Fresh Water Eel,actual,2012-07-01,25.0,actual
+Processed Meat,Fresh Water Eel,actual,2012-08-01,0.0,actual
+Processed Meat,Fresh Water Eel,actual,2012-09-01,54.0,actual
+Processed Meat,Fresh Water Eel,actual,2012-10-01,7.0,actual
+Processed Meat,Fresh Water Eel,actual,2012-11-01,0.0,actual
+Processed Meat,Fresh Water Eel,actual,2012-12-01,86.0,actual
+Processed Meat,Fresh Water Eel,actual,2013-01-01,148.0,actual
+Processed Meat,Fresh Water Eel,actual,2013-02-01,21.0,actual
+Processed Meat,Fresh Water Eel,actual,2013-03-01,4.0,actual
+Processed Meat,Fresh Water Eel,actual,2013-04-01,28.0,actual
+Processed Meat,Fresh Water Eel,actual,2013-05-01,90.0,actual
+Processed Meat,Fresh Water Eel,actual,2013-06-01,22.0,actual
+Processed Meat,Fresh Water Eel,actual,2013-07-01,49.0,actual
+Processed Meat,Fresh Water Eel,actual,2013-08-01,133.0,actual
+Processed Meat,Fresh Water Eel,actual,2013-09-01,46.0,actual
+Processed Meat,Fresh Water Eel,actual,2013-10-01,11.0,actual
+Processed Meat,Fresh Water Eel,actual,2013-11-01,65.0,actual
+Processed Meat,Fresh Water Eel,actual,2013-12-01,24.0,actual
+Processed Meat,Fresh Water Eel,future_forecast,2014-01-01,81.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Fresh Water Eel,future_forecast,2014-02-01,26.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Fresh Water Eel,future_forecast,2014-03-01,8.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Fresh Water Eel,future_forecast,2014-04-01,39.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Fresh Water Eel,future_forecast,2014-05-01,64.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Fresh Water Eel,future_forecast,2014-06-01,32.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Fresh Water Eel,future_forecast,2014-07-01,38.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Fresh Water Eel,future_forecast,2014-08-01,72.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Fresh Water Eel,future_forecast,2014-09-01,49.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Fresh Water Eel,future_forecast,2014-10-01,8.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Fresh Water Eel,future_forecast,2014-11-01,32.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Fresh Water Eel,future_forecast,2014-12-01,52.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Jelly Fish,test_forecast,2013-03-01,26.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Jelly Fish,test_forecast,2013-04-01,32.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Jelly Fish,test_forecast,2013-05-01,25.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Jelly Fish,test_forecast,2013-06-01,45.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Jelly Fish,test_forecast,2013-07-01,56.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Jelly Fish,test_forecast,2013-08-01,323.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Jelly Fish,test_forecast,2013-09-01,212.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Jelly Fish,test_forecast,2013-10-01,271.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Jelly Fish,test_forecast,2013-11-01,129.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Jelly Fish,test_forecast,2013-12-01,58.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Jelly Fish,actual,2010-01-01,19.0,actual
+Processed Meat,Jelly Fish,actual,2010-02-01,37.0,actual
+Processed Meat,Jelly Fish,actual,2010-03-01,5.0,actual
+Processed Meat,Jelly Fish,actual,2010-04-01,15.0,actual
+Processed Meat,Jelly Fish,actual,2010-05-01,6.0,actual
+Processed Meat,Jelly Fish,actual,2010-06-01,40.0,actual
+Processed Meat,Jelly Fish,actual,2010-07-01,4.0,actual
+Processed Meat,Jelly Fish,actual,2010-08-01,79.0,actual
+Processed Meat,Jelly Fish,actual,2010-09-01,37.0,actual
+Processed Meat,Jelly Fish,actual,2010-10-01,19.0,actual
+Processed Meat,Jelly Fish,actual,2010-11-01,0.0,actual
+Processed Meat,Jelly Fish,actual,2010-12-01,0.0,actual
+Processed Meat,Jelly Fish,actual,2011-01-01,11.0,actual
+Processed Meat,Jelly Fish,actual,2011-02-01,0.0,actual
+Processed Meat,Jelly Fish,actual,2011-03-01,1.0,actual
+Processed Meat,Jelly Fish,actual,2011-04-01,2.0,actual
+Processed Meat,Jelly Fish,actual,2011-05-01,0.0,actual
+Processed Meat,Jelly Fish,actual,2011-06-01,21.0,actual
+Processed Meat,Jelly Fish,actual,2011-07-01,16.0,actual
+Processed Meat,Jelly Fish,actual,2011-08-01,196.0,actual
+Processed Meat,Jelly Fish,actual,2011-09-01,118.0,actual
+Processed Meat,Jelly Fish,actual,2011-10-01,141.0,actual
+Processed Meat,Jelly Fish,actual,2011-11-01,55.0,actual
+Processed Meat,Jelly Fish,actual,2011-12-01,13.0,actual
+Processed Meat,Jelly Fish,actual,2012-01-01,13.0,actual
+Processed Meat,Jelly Fish,actual,2012-02-01,39.0,actual
+Processed Meat,Jelly Fish,actual,2012-03-01,23.0,actual
+Processed Meat,Jelly Fish,actual,2012-04-01,4.0,actual
+Processed Meat,Jelly Fish,actual,2012-05-01,0.0,actual
+Processed Meat,Jelly Fish,actual,2012-06-01,22.0,actual
+Processed Meat,Jelly Fish,actual,2012-07-01,21.0,actual
+Processed Meat,Jelly Fish,actual,2012-08-01,28.0,actual
+Processed Meat,Jelly Fish,actual,2012-09-01,4.0,actual
+Processed Meat,Jelly Fish,actual,2012-10-01,15.0,actual
+Processed Meat,Jelly Fish,actual,2012-11-01,131.0,actual
+Processed Meat,Jelly Fish,actual,2012-12-01,67.0,actual
+Processed Meat,Jelly Fish,actual,2013-01-01,24.0,actual
+Processed Meat,Jelly Fish,actual,2013-02-01,14.0,actual
+Processed Meat,Jelly Fish,actual,2013-03-01,14.0,actual
+Processed Meat,Jelly Fish,actual,2013-04-01,91.0,actual
+Processed Meat,Jelly Fish,actual,2013-05-01,23.0,actual
+Processed Meat,Jelly Fish,actual,2013-06-01,31.0,actual
+Processed Meat,Jelly Fish,actual,2013-07-01,29.0,actual
+Processed Meat,Jelly Fish,actual,2013-08-01,20.0,actual
+Processed Meat,Jelly Fish,actual,2013-09-01,76.0,actual
+Processed Meat,Jelly Fish,actual,2013-10-01,54.0,actual
+Processed Meat,Jelly Fish,actual,2013-11-01,32.0,actual
+Processed Meat,Jelly Fish,actual,2013-12-01,30.0,actual
+Processed Meat,Jelly Fish,future_forecast,2014-01-01,14.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Jelly Fish,future_forecast,2014-02-01,25.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Jelly Fish,future_forecast,2014-03-01,17.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Jelly Fish,future_forecast,2014-04-01,61.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Jelly Fish,future_forecast,2014-05-01,13.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Jelly Fish,future_forecast,2014-06-01,27.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Jelly Fish,future_forecast,2014-07-01,24.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Jelly Fish,future_forecast,2014-08-01,-6.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Jelly Fish,future_forecast,2014-09-01,32.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Jelly Fish,future_forecast,2014-10-01,17.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Jelly Fish,future_forecast,2014-11-01,68.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Jelly Fish,future_forecast,2014-12-01,45.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Oysters (Clam),test_forecast,2013-03-01,67.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Oysters (Clam),test_forecast,2013-04-01,13.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Oysters (Clam),test_forecast,2013-05-01,87.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Oysters (Clam),test_forecast,2013-06-01,51.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Oysters (Clam),test_forecast,2013-07-01,73.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Oysters (Clam),test_forecast,2013-08-01,89.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Oysters (Clam),test_forecast,2013-09-01,20.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Oysters (Clam),test_forecast,2013-10-01,27.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Oysters (Clam),test_forecast,2013-11-01,32.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Oysters (Clam),test_forecast,2013-12-01,140.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Oysters (Clam),actual,2010-01-01,12.0,actual
+Processed Meat,Oysters (Clam),actual,2010-02-01,60.0,actual
+Processed Meat,Oysters (Clam),actual,2010-03-01,1.0,actual
+Processed Meat,Oysters (Clam),actual,2010-04-01,60.0,actual
+Processed Meat,Oysters (Clam),actual,2010-05-01,7.0,actual
+Processed Meat,Oysters (Clam),actual,2010-06-01,17.0,actual
+Processed Meat,Oysters (Clam),actual,2010-07-01,44.0,actual
+Processed Meat,Oysters (Clam),actual,2010-08-01,17.0,actual
+Processed Meat,Oysters (Clam),actual,2010-09-01,42.0,actual
+Processed Meat,Oysters (Clam),actual,2010-10-01,51.0,actual
+Processed Meat,Oysters (Clam),actual,2010-11-01,38.0,actual
+Processed Meat,Oysters (Clam),actual,2010-12-01,7.0,actual
+Processed Meat,Oysters (Clam),actual,2011-01-01,11.0,actual
+Processed Meat,Oysters (Clam),actual,2011-02-01,33.0,actual
+Processed Meat,Oysters (Clam),actual,2011-03-01,0.0,actual
+Processed Meat,Oysters (Clam),actual,2011-04-01,17.0,actual
+Processed Meat,Oysters (Clam),actual,2011-05-01,108.0,actual
+Processed Meat,Oysters (Clam),actual,2011-06-01,32.0,actual
+Processed Meat,Oysters (Clam),actual,2011-07-01,0.0,actual
+Processed Meat,Oysters (Clam),actual,2011-08-01,84.0,actual
+Processed Meat,Oysters (Clam),actual,2011-09-01,21.0,actual
+Processed Meat,Oysters (Clam),actual,2011-10-01,1.0,actual
+Processed Meat,Oysters (Clam),actual,2011-11-01,0.0,actual
+Processed Meat,Oysters (Clam),actual,2011-12-01,23.0,actual
+Processed Meat,Oysters (Clam),actual,2012-01-01,17.0,actual
+Processed Meat,Oysters (Clam),actual,2012-02-01,0.0,actual
+Processed Meat,Oysters (Clam),actual,2012-03-01,52.0,actual
+Processed Meat,Oysters (Clam),actual,2012-04-01,0.0,actual
+Processed Meat,Oysters (Clam),actual,2012-05-01,16.0,actual
+Processed Meat,Oysters (Clam),actual,2012-06-01,20.0,actual
+Processed Meat,Oysters (Clam),actual,2012-07-01,75.0,actual
+Processed Meat,Oysters (Clam),actual,2012-08-01,36.0,actual
+Processed Meat,Oysters (Clam),actual,2012-09-01,0.0,actual
+Processed Meat,Oysters (Clam),actual,2012-10-01,23.0,actual
+Processed Meat,Oysters (Clam),actual,2012-11-01,24.0,actual
+Processed Meat,Oysters (Clam),actual,2012-12-01,127.0,actual
+Processed Meat,Oysters (Clam),actual,2013-01-01,34.0,actual
+Processed Meat,Oysters (Clam),actual,2013-02-01,35.0,actual
+Processed Meat,Oysters (Clam),actual,2013-03-01,13.0,actual
+Processed Meat,Oysters (Clam),actual,2013-04-01,1.0,actual
+Processed Meat,Oysters (Clam),actual,2013-05-01,36.0,actual
+Processed Meat,Oysters (Clam),actual,2013-06-01,17.0,actual
+Processed Meat,Oysters (Clam),actual,2013-07-01,8.0,actual
+Processed Meat,Oysters (Clam),actual,2013-08-01,20.0,actual
+Processed Meat,Oysters (Clam),actual,2013-09-01,9.0,actual
+Processed Meat,Oysters (Clam),actual,2013-10-01,25.0,actual
+Processed Meat,Oysters (Clam),actual,2013-11-01,92.0,actual
+Processed Meat,Oysters (Clam),actual,2013-12-01,110.0,actual
+Processed Meat,Oysters (Clam),future_forecast,2014-01-01,36.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Oysters (Clam),future_forecast,2014-02-01,24.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Oysters (Clam),future_forecast,2014-03-01,35.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Oysters (Clam),future_forecast,2014-04-01,4.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Oysters (Clam),future_forecast,2014-05-01,28.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Oysters (Clam),future_forecast,2014-06-01,21.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Oysters (Clam),future_forecast,2014-07-01,43.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Oysters (Clam),future_forecast,2014-08-01,29.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Oysters (Clam),future_forecast,2014-09-01,8.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Oysters (Clam),future_forecast,2014-10-01,29.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Oysters (Clam),future_forecast,2014-11-01,67.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Oysters (Clam),future_forecast,2014-12-01,124.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Pacific Squid,test_forecast,2013-04-01,13.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Pacific Squid,test_forecast,2013-05-01,2.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Pacific Squid,test_forecast,2013-06-01,-8.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Pacific Squid,test_forecast,2013-07-01,14.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Pacific Squid,test_forecast,2013-08-01,14.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Pacific Squid,test_forecast,2013-09-01,48.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Pacific Squid,test_forecast,2013-10-01,14.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Pacific Squid,test_forecast,2013-11-01,29.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Pacific Squid,test_forecast,2013-12-01,2.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Pacific Squid,actual,2010-04-01,6.0,actual
+Processed Meat,Pacific Squid,actual,2010-05-01,0.0,actual
+Processed Meat,Pacific Squid,actual,2010-06-01,41.0,actual
+Processed Meat,Pacific Squid,actual,2010-07-01,0.0,actual
+Processed Meat,Pacific Squid,actual,2010-08-01,11.0,actual
+Processed Meat,Pacific Squid,actual,2010-09-01,0.0,actual
+Processed Meat,Pacific Squid,actual,2010-10-01,30.0,actual
+Processed Meat,Pacific Squid,actual,2010-11-01,8.0,actual
+Processed Meat,Pacific Squid,actual,2010-12-01,0.0,actual
+Processed Meat,Pacific Squid,actual,2011-01-01,0.0,actual
+Processed Meat,Pacific Squid,actual,2011-02-01,8.0,actual
+Processed Meat,Pacific Squid,actual,2011-03-01,6.0,actual
+Processed Meat,Pacific Squid,actual,2011-04-01,5.0,actual
+Processed Meat,Pacific Squid,actual,2011-05-01,0.0,actual
+Processed Meat,Pacific Squid,actual,2011-06-01,0.0,actual
+Processed Meat,Pacific Squid,actual,2011-07-01,0.0,actual
+Processed Meat,Pacific Squid,actual,2011-08-01,17.0,actual
+Processed Meat,Pacific Squid,actual,2011-09-01,35.0,actual
+Processed Meat,Pacific Squid,actual,2011-10-01,0.0,actual
+Processed Meat,Pacific Squid,actual,2011-11-01,30.0,actual
+Processed Meat,Pacific Squid,actual,2011-12-01,0.0,actual
+Processed Meat,Pacific Squid,actual,2012-01-01,0.0,actual
+Processed Meat,Pacific Squid,actual,2012-02-01,1.0,actual
+Processed Meat,Pacific Squid,actual,2012-03-01,0.0,actual
+Processed Meat,Pacific Squid,actual,2012-04-01,16.0,actual
+Processed Meat,Pacific Squid,actual,2012-05-01,0.0,actual
+Processed Meat,Pacific Squid,actual,2012-06-01,22.0,actual
+Processed Meat,Pacific Squid,actual,2012-07-01,24.0,actual
+Processed Meat,Pacific Squid,actual,2012-08-01,0.0,actual
+Processed Meat,Pacific Squid,actual,2012-09-01,21.0,actual
+Processed Meat,Pacific Squid,actual,2012-10-01,56.0,actual
+Processed Meat,Pacific Squid,actual,2012-11-01,0.0,actual
+Processed Meat,Pacific Squid,actual,2012-12-01,0.0,actual
+Processed Meat,Pacific Squid,actual,2013-01-01,0.0,actual
+Processed Meat,Pacific Squid,actual,2013-02-01,20.0,actual
+Processed Meat,Pacific Squid,actual,2013-03-01,8.0,actual
+Processed Meat,Pacific Squid,actual,2013-04-01,51.0,actual
+Processed Meat,Pacific Squid,actual,2013-05-01,0.0,actual
+Processed Meat,Pacific Squid,actual,2013-06-01,0.0,actual
+Processed Meat,Pacific Squid,actual,2013-07-01,27.0,actual
+Processed Meat,Pacific Squid,actual,2013-08-01,24.0,actual
+Processed Meat,Pacific Squid,actual,2013-09-01,26.0,actual
+Processed Meat,Pacific Squid,actual,2013-10-01,35.0,actual
+Processed Meat,Pacific Squid,actual,2013-11-01,61.0,actual
+Processed Meat,Pacific Squid,actual,2013-12-01,1.0,actual
+Processed Meat,Pacific Squid,future_forecast,2014-01-01,13.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Pacific Squid,future_forecast,2014-02-01,16.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Pacific Squid,future_forecast,2014-03-01,12.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Pacific Squid,future_forecast,2014-04-01,42.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Pacific Squid,future_forecast,2014-05-01,11.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Pacific Squid,future_forecast,2014-06-01,30.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Pacific Squid,future_forecast,2014-07-01,40.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Pacific Squid,future_forecast,2014-08-01,17.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Pacific Squid,future_forecast,2014-09-01,30.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Pacific Squid,future_forecast,2014-10-01,69.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Pacific Squid,future_forecast,2014-11-01,28.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Pacific Squid,future_forecast,2014-12-01,11.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Smoked Salmon,test_forecast,2013-03-01,76.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Smoked Salmon,test_forecast,2013-04-01,129.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Smoked Salmon,test_forecast,2013-05-01,155.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Smoked Salmon,test_forecast,2013-06-01,128.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Smoked Salmon,test_forecast,2013-07-01,137.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Smoked Salmon,test_forecast,2013-08-01,142.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Smoked Salmon,test_forecast,2013-09-01,216.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Smoked Salmon,test_forecast,2013-10-01,175.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Smoked Salmon,test_forecast,2013-11-01,209.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Smoked Salmon,test_forecast,2013-12-01,282.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Smoked Salmon,actual,2010-01-01,128.0,actual
+Processed Meat,Smoked Salmon,actual,2010-02-01,41.0,actual
+Processed Meat,Smoked Salmon,actual,2010-03-01,108.0,actual
+Processed Meat,Smoked Salmon,actual,2010-04-01,46.0,actual
+Processed Meat,Smoked Salmon,actual,2010-05-01,150.0,actual
+Processed Meat,Smoked Salmon,actual,2010-06-01,28.0,actual
+Processed Meat,Smoked Salmon,actual,2010-07-01,36.0,actual
+Processed Meat,Smoked Salmon,actual,2010-08-01,197.0,actual
+Processed Meat,Smoked Salmon,actual,2010-09-01,74.0,actual
+Processed Meat,Smoked Salmon,actual,2010-10-01,121.0,actual
+Processed Meat,Smoked Salmon,actual,2010-11-01,28.0,actual
+Processed Meat,Smoked Salmon,actual,2010-12-01,104.0,actual
+Processed Meat,Smoked Salmon,actual,2011-01-01,17.0,actual
+Processed Meat,Smoked Salmon,actual,2011-02-01,81.0,actual
+Processed Meat,Smoked Salmon,actual,2011-03-01,65.0,actual
+Processed Meat,Smoked Salmon,actual,2011-04-01,73.0,actual
+Processed Meat,Smoked Salmon,actual,2011-05-01,64.0,actual
+Processed Meat,Smoked Salmon,actual,2011-06-01,117.0,actual
+Processed Meat,Smoked Salmon,actual,2011-07-01,128.0,actual
+Processed Meat,Smoked Salmon,actual,2011-08-01,74.0,actual
+Processed Meat,Smoked Salmon,actual,2011-09-01,121.0,actual
+Processed Meat,Smoked Salmon,actual,2011-10-01,83.0,actual
+Processed Meat,Smoked Salmon,actual,2011-11-01,122.0,actual
+Processed Meat,Smoked Salmon,actual,2011-12-01,120.0,actual
+Processed Meat,Smoked Salmon,actual,2012-01-01,9.0,actual
+Processed Meat,Smoked Salmon,actual,2012-02-01,120.0,actual
+Processed Meat,Smoked Salmon,actual,2012-03-01,71.0,actual
+Processed Meat,Smoked Salmon,actual,2012-04-01,123.0,actual
+Processed Meat,Smoked Salmon,actual,2012-05-01,137.0,actual
+Processed Meat,Smoked Salmon,actual,2012-06-01,90.0,actual
+Processed Meat,Smoked Salmon,actual,2012-07-01,96.0,actual
+Processed Meat,Smoked Salmon,actual,2012-08-01,99.0,actual
+Processed Meat,Smoked Salmon,actual,2012-09-01,202.0,actual
+Processed Meat,Smoked Salmon,actual,2012-10-01,150.0,actual
+Processed Meat,Smoked Salmon,actual,2012-11-01,197.0,actual
+Processed Meat,Smoked Salmon,actual,2012-12-01,291.0,actual
+Processed Meat,Smoked Salmon,actual,2013-01-01,120.0,actual
+Processed Meat,Smoked Salmon,actual,2013-02-01,68.0,actual
+Processed Meat,Smoked Salmon,actual,2013-03-01,88.0,actual
+Processed Meat,Smoked Salmon,actual,2013-04-01,72.0,actual
+Processed Meat,Smoked Salmon,actual,2013-05-01,138.0,actual
+Processed Meat,Smoked Salmon,actual,2013-06-01,50.0,actual
+Processed Meat,Smoked Salmon,actual,2013-07-01,106.0,actual
+Processed Meat,Smoked Salmon,actual,2013-08-01,195.0,actual
+Processed Meat,Smoked Salmon,actual,2013-09-01,78.0,actual
+Processed Meat,Smoked Salmon,actual,2013-10-01,477.0,actual
+Processed Meat,Smoked Salmon,actual,2013-11-01,371.0,actual
+Processed Meat,Smoked Salmon,actual,2013-12-01,73.0,actual
+Processed Meat,Smoked Salmon,future_forecast,2014-01-01,98.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Smoked Salmon,future_forecast,2014-02-01,133.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Smoked Salmon,future_forecast,2014-03-01,137.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Smoked Salmon,future_forecast,2014-04-01,137.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Smoked Salmon,future_forecast,2014-05-01,181.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Smoked Salmon,future_forecast,2014-06-01,124.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Smoked Salmon,future_forecast,2014-07-01,153.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Smoked Salmon,future_forecast,2014-08-01,204.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Smoked Salmon,future_forecast,2014-09-01,173.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Smoked Salmon,future_forecast,2014-10-01,331.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Smoked Salmon,future_forecast,2014-11-01,293.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Smoked Salmon,future_forecast,2014-12-01,199.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Tuna,test_forecast,2013-03-01,-4.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Tuna,test_forecast,2013-04-01,60.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Tuna,test_forecast,2013-05-01,4.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Tuna,test_forecast,2013-06-01,10.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Tuna,test_forecast,2013-07-01,15.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Tuna,test_forecast,2013-08-01,4.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Tuna,test_forecast,2013-09-01,22.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Tuna,test_forecast,2013-10-01,12.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Tuna,test_forecast,2013-11-01,5.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Tuna,test_forecast,2013-12-01,18.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Tuna,actual,2010-02-01,9.0,actual
+Processed Meat,Tuna,actual,2010-03-01,0.0,actual
+Processed Meat,Tuna,actual,2010-04-01,0.0,actual
+Processed Meat,Tuna,actual,2010-05-01,12.0,actual
+Processed Meat,Tuna,actual,2010-06-01,40.0,actual
+Processed Meat,Tuna,actual,2010-07-01,0.0,actual
+Processed Meat,Tuna,actual,2010-08-01,0.0,actual
+Processed Meat,Tuna,actual,2010-09-01,23.0,actual
+Processed Meat,Tuna,actual,2010-10-01,4.0,actual
+Processed Meat,Tuna,actual,2010-11-01,46.0,actual
+Processed Meat,Tuna,actual,2010-12-01,12.0,actual
+Processed Meat,Tuna,actual,2011-01-01,21.0,actual
+Processed Meat,Tuna,actual,2011-02-01,1.0,actual
+Processed Meat,Tuna,actual,2011-03-01,0.0,actual
+Processed Meat,Tuna,actual,2011-04-01,4.0,actual
+Processed Meat,Tuna,actual,2011-05-01,37.0,actual
+Processed Meat,Tuna,actual,2011-06-01,3.0,actual
+Processed Meat,Tuna,actual,2011-07-01,15.0,actual
+Processed Meat,Tuna,actual,2011-08-01,2.0,actual
+Processed Meat,Tuna,actual,2011-09-01,12.0,actual
+Processed Meat,Tuna,actual,2011-10-01,0.0,actual
+Processed Meat,Tuna,actual,2011-11-01,32.0,actual
+Processed Meat,Tuna,actual,2011-12-01,19.0,actual
+Processed Meat,Tuna,actual,2012-01-01,0.0,actual
+Processed Meat,Tuna,actual,2012-02-01,0.0,actual
+Processed Meat,Tuna,actual,2012-03-01,3.0,actual
+Processed Meat,Tuna,actual,2012-04-01,64.0,actual
+Processed Meat,Tuna,actual,2012-05-01,0.0,actual
+Processed Meat,Tuna,actual,2012-06-01,9.0,actual
+Processed Meat,Tuna,actual,2012-07-01,15.0,actual
+Processed Meat,Tuna,actual,2012-08-01,3.0,actual
+Processed Meat,Tuna,actual,2012-09-01,22.0,actual
+Processed Meat,Tuna,actual,2012-10-01,13.0,actual
+Processed Meat,Tuna,actual,2012-11-01,0.0,actual
+Processed Meat,Tuna,actual,2012-12-01,17.0,actual
+Processed Meat,Tuna,actual,2013-01-01,13.0,actual
+Processed Meat,Tuna,actual,2013-02-01,21.0,actual
+Processed Meat,Tuna,actual,2013-03-01,14.0,actual
+Processed Meat,Tuna,actual,2013-04-01,1.0,actual
+Processed Meat,Tuna,actual,2013-05-01,91.0,actual
+Processed Meat,Tuna,actual,2013-06-01,4.0,actual
+Processed Meat,Tuna,actual,2013-07-01,73.0,actual
+Processed Meat,Tuna,actual,2013-08-01,51.0,actual
+Processed Meat,Tuna,actual,2013-09-01,15.0,actual
+Processed Meat,Tuna,actual,2013-10-01,67.0,actual
+Processed Meat,Tuna,actual,2013-11-01,0.0,actual
+Processed Meat,Tuna,actual,2013-12-01,48.0,actual
+Processed Meat,Tuna,future_forecast,2014-01-01,20.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Tuna,future_forecast,2014-02-01,30.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Tuna,future_forecast,2014-03-01,26.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Tuna,future_forecast,2014-04-01,53.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Tuna,future_forecast,2014-05-01,51.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Tuna,future_forecast,2014-06-01,32.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Tuna,future_forecast,2014-07-01,47.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Tuna,future_forecast,2014-08-01,34.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Tuna,future_forecast,2014-09-01,41.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Tuna,future_forecast,2014-10-01,41.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Tuna,future_forecast,2014-11-01,37.0,"SARIMAX(1,1,1)x(1,1,1,12)"
+Processed Meat,Tuna,future_forecast,2014-12-01,46.0,"SARIMAX(1,1,1)x(1,1,1,12)"
